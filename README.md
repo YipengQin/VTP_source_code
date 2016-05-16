@@ -4,7 +4,7 @@ The source code of our paper:
 
 Fast and Exact Discrete Geodesic Computation Based on Triangle-Oriented Wavefront Propagation
 
-Yipeng Qin*, Xiaoguang Han*, Hongchuan Yu, Yizhou Yu, Jianjun Zhang (* Joint first authors)
+Yipeng Qin\*, Xiaoguang Han\*, Hongchuan Yu, Yizhou Yu, Jianjun Zhang (* Joint first authors)
 
 ACM Transactions on Graphics (Proceedings of SIGGRAPH 2016)
 
