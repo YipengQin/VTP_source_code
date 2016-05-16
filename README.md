@@ -8,6 +8,8 @@ Yipeng Qin\*, Xiaoguang Han\*, Hongchuan Yu, Yizhou Yu, Jianjun Zhang (* Joint f
 
 ACM Transactions on Graphics (Proceedings of SIGGRAPH 2016)
 
+***
+
 USAGE:
 
 -m [meshFile]: input model file (current code only support .obj files)
@@ -18,7 +20,7 @@ USAGE:
 
 Example: VTP.exe -m bunny.obj -s 0 -o bunny_geoDistance.txt
 
-
+***
 
 Please cite this paper if you use this code:
 
